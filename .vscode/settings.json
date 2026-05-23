@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Day04ActDB",
+            "database": "C:\\Users\\admin\\Desktop\\DATA\\Day04_practice.db"
+        }
+    ]
+}
